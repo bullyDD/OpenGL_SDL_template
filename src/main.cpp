@@ -4,9 +4,6 @@
  *  @brief  : OpenGL SDL startup program.
  */
 
-#include <SDL2/SDL.h>
-#include "../glad/glad.h"
-
 #include <iostream>
 
 
